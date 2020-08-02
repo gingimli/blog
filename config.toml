@@ -1,4 +1,4 @@
-baseurl = "https://gingimli.github.io/"
+baseurl = "https://gingimli.netlify.app/"
 title = "gingimli"
 theme = "hugo-coder"
 languagecode = "en"
